@@ -1,3 +1,5 @@
 export let tasks=[{
-    name:"dummy task"
+    id:1,
+    name:"dummy task",
+    isCompleted:false
 }];
