@@ -5,5 +5,5 @@ export default function ExpenseItemsList() {
     const listItems = data.map((expense) => {
         return <ExpenseItem expense={expense} />;
     })
-    return <>{listItems}</>;
+    return <div>{listItems}</div>;
 }
