@@ -3,7 +3,9 @@ import ExpenseItemsList from "./components/ExpenseItemsList";
 
 function App() {
   return (
+    <div>
       <ExpenseItemsList />
+    </div>
   );
 }
 

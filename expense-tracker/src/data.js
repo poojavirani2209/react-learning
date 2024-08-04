@@ -1,16 +1,16 @@
  export let data = [
     {
-      "expenseName": "item1",
+      "expenseName": "Buy Earphones",
       "expenseValue": "100.0",
       "date":new Date()
     },
     {
-      "expenseName": "item2",
+      "expenseName": "Buy Laptop",
       "expenseValue": "50.0",
       "date":new Date()
     },
     {
-      "expenseName": "item3",
+      "expenseName": "Buy shoes",
       "expenseValue": "10.0",
       "date":new Date()
     }
